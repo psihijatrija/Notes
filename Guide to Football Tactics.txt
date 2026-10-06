@@ -1,12 +1,10 @@
-1. Set mentality depending on number of attackers in your formation (W, AMC, ST)
+1. Set mentality depending on triangles in your formation
 
-a) 0 attackers = overload
-b) 1 attacker = attacking
-b) 2 attackers = control
-d) 3 attackers = standard
-e) 4 attackers = counter
-f) 5 attackers = defensive
-g) 6 attackers = contain
+a) DM + MC + AMC = attacking
+b) MC + AMC = control
+d) DM + AMC = standard
+e) DM + MC = counter
+f) MC = defensive
 
 2. Set fluidity depending on number of horizontal lines missing in your formation (don't forget SW)
 
